@@ -3,6 +3,9 @@
 # Purpose:
 The project aims to create a simple artificial neuron that can decide whether someone likes or dislikes a snack based on its saltiness and spiciness levels. It's like teaching a computer to think a bit like a person when it comes to food preferences.
 
+<img src="image.png" />
+
+
 # How It Works:
 
 **Gathering Data:** We start by collecting data about people's snack preferences, noting down whether they like or dislike each snack along with its saltiness and spiciness levels.
