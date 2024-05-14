@@ -5,7 +5,7 @@ The project aims to create a simple artificial neuron that can decide whether so
 
 # How It Works:
 
-Gathering Data: We start by collecting data about people's snack preferences, noting down whether they like or dislike each snack along with its saltiness and spiciness levels.
+**Gathering Data:** We start by collecting data about people's snack preferences, noting down whether they like or dislike each snack along with its saltiness and spiciness levels.
 
 Processing Data: We analyze this data, separating snacks into liked and disliked categories and calculating the average saltiness and spiciness for each group.
 
